@@ -1,1 +1,1 @@
-FROM sipcapture/webapp:latest
+FROM sipcapture/webapp
