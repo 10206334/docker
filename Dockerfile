@@ -1,1 +1,1 @@
-FROM sipcapture/heplify-server:1.30
+FROM sipcapture/webapp:latest
