@@ -1,1 +1,1 @@
-FROM sipcapture/webapp
+FROM alpine:3.15
