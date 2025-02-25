@@ -1,1 +1,1 @@
-FROM atmoz/sftp
+FROM alpine/dfimage
