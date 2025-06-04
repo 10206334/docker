@@ -1,1 +1,1 @@
-FROM amazoncorretto:17.0.15-alpine3.21
+FROM eclipse-temurin:17.0.15_6-jdk-alpine-3.21
